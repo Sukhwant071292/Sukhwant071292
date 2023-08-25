@@ -47,7 +47,7 @@
 
   <h4>AWS Intern</h4>
   <ul>
-    <li>•	Gained hands-on experience in deploying and managing AWS cloud services.</li>
+    •	Gained hands-on experience in deploying and managing AWS cloud services.
 <li>•	Baisics of Machine Learning</li>
 <li>•	Enhanced knowledge of virtualization, networking, and cloud architecture.</li>
 <li>•	Monitored system performance and conducted troubleshooting to ensure smooth operations.</li>
@@ -71,7 +71,7 @@
 •	Databases: Designing relational databases, querying, and management.
 •	Web Development: Web technologies, HTML, CSS, JavaScript for interactive web applications.
 </p>
-  <h4> AWS re/start Graduate</h4>
+  <h3> AWS re/start Graduate</h3>
   <p>•	Cloud Fundamentals: Understanding of cloud computing models, services, and benefits.
 •	AWS Services: Familiarity with key AWS services like EC2, S3, RDS, and Lambda.
 •	Cloud Security: Knowledge of AWS security practices, identity management, and access controls.
