@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi, I'm Sukhwant 👋</h1>
   <p>Enthusiastic and certified AWS Cloud Engineer with a passion for designing, implementing, and managing robust cloud solutions. Leveraging hands-on experience in cloud architecture and automation to drive digital transformation and enhance business efficiency. Seeking opportunities to contribute my technical expertise and problem-solving skills to a dynamic team, while continuously expanding my knowledge in the rapidly evolving cloud computing landscape.</p>
-  <p><em>Passionate about crafting innovative mobile apps and exploring new technologies.</em></p>
+  <p><em>Passionate about learning and exceling cloud practices.</em></p>
 </div>
 
 <br>
