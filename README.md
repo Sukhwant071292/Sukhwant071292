@@ -71,7 +71,7 @@
 •	Databases: Designing relational databases, querying, and management.
 •	Web Development: Web technologies, HTML, CSS, JavaScript for interactive web applications.
 </p>
-  <h3> AWS re/start Graduate</h3>
+  <h3> AWS re/start Graduate  | May 2023 – August 2023 | Punjabi University, Patiala, Canada</h3>
   <p>•	Cloud Fundamentals: Understanding of cloud computing models, services, and benefits.
 •	AWS Services: Familiarity with key AWS services like EC2, S3, RDS, and Lambda.
 •	Cloud Security: Knowledge of AWS security practices, identity management, and access controls.
